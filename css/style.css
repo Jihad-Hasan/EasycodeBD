@@ -40,6 +40,7 @@ a{
 #header-part{
   padding: 1% 7%;
   position: relative;
+  height: 180px;
 }
 .animation{
   background-image:  url("../image/front_fast-1.png");
